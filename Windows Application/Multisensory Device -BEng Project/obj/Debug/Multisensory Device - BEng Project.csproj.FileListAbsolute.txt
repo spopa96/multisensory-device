@@ -1,0 +1,36 @@
+C:\Users\popa_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Multisensory Device - BEng Project.csprojAssemblyReference.cache
+C:\Users\popa_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\popa_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PatternCreator.resources
+C:\Users\popa_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Multisensory Device - BEng Project.csproj.GenerateResource.cache
+C:\Users\popa_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Multisensory Device - BEng Project.csproj.CoreCompileInputs.cache
+C:\Users\popa_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Multisensory Device - BEng Project.exe.config
+C:\Users\popa_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Multisensory Device - BEng Project.exe.manifest
+C:\Users\popa_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Multisensory Device - BEng Project.application
+C:\Users\popa_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Multisensory Device - BEng Project.exe
+C:\Users\popa_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Multisensory Device - BEng Project.pdb
+C:\Users\popa_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MultisensoryDevice.Properties.Resources.resources
+C:\Users\popa_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Multisensory Device - BEng Project.exe.manifest
+C:\Users\popa_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Multisensory Device - BEng Project.application
+C:\Users\popa_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Multisensory Device - BEng Project.exe
+C:\Users\popa_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Multisensory Device - BEng Project.pdb
+C:\Users\popa_\source\repos\WindowsFormsApp1\Multisensory Device -BEng Project\obj\Debug\Multisensory Device - BEng Project.csprojAssemblyReference.cache
+C:\Users\popa_\source\repos\WindowsFormsApp1\Multisensory Device -BEng Project\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\popa_\source\repos\WindowsFormsApp1\Multisensory Device -BEng Project\obj\Debug\WindowsFormsApp1.PatternCreator.resources
+C:\Users\popa_\source\repos\WindowsFormsApp1\Multisensory Device -BEng Project\obj\Debug\MultisensoryDevice.Properties.Resources.resources
+C:\Users\popa_\source\repos\WindowsFormsApp1\Multisensory Device -BEng Project\obj\Debug\Multisensory Device - BEng Project.csproj.GenerateResource.cache
+C:\Users\popa_\source\repos\WindowsFormsApp1\Multisensory Device -BEng Project\obj\Debug\Multisensory Device - BEng Project.csproj.CoreCompileInputs.cache
+C:\Users\popa_\source\repos\WindowsFormsApp1\Multisensory Device -BEng Project\obj\Debug\Multisensory Device - BEng Project.exe
+C:\Users\popa_\source\repos\WindowsFormsApp1\Multisensory Device -BEng Project\obj\Debug\Multisensory Device - BEng Project.pdb
+C:\Users\popa_\source\repos\WindowsFormsApp1\Multisensory Device -BEng Project\bin\Debug\Multisensory Device - BEng Project.exe.config
+C:\Users\popa_\source\repos\WindowsFormsApp1\Multisensory Device -BEng Project\bin\Debug\Multisensory Device - BEng Project.exe.manifest
+C:\Users\popa_\source\repos\WindowsFormsApp1\Multisensory Device -BEng Project\bin\Debug\Multisensory Device - BEng Project.application
+C:\Users\popa_\source\repos\WindowsFormsApp1\Multisensory Device -BEng Project\bin\Debug\Multisensory Device - BEng Project.exe
+C:\Users\popa_\source\repos\WindowsFormsApp1\Multisensory Device -BEng Project\bin\Debug\Multisensory Device - BEng Project.pdb
+C:\Users\popa_\source\repos\WindowsFormsApp1\Multisensory Device -BEng Project\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\popa_\source\repos\WindowsFormsApp1\Multisensory Device -BEng Project\obj\Debug\Multisensory Device - BEng Project.exe.manifest
+C:\Users\popa_\source\repos\WindowsFormsApp1\Multisensory Device -BEng Project\obj\Debug\Multisensory Device - BEng Project.application
+C:\Users\popa_\source\repos\WindowsFormsApp1\Multisensory Device -BEng Project\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\popa_\source\repos\WindowsFormsApp1\Multisensory Device -BEng Project\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\popa_\source\repos\WindowsFormsApp1\Multisensory Device -BEng Project\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\popa_\source\repos\WindowsFormsApp1\Multisensory Device -BEng Project\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\popa_\source\repos\WindowsFormsApp1\Multisensory Device -BEng Project\obj\Debug\Multisensory Device - BEng Project.csproj.ResolveComReference.cache

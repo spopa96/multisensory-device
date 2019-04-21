@@ -1,0 +1,10 @@
+Red
+Green
+Blue
+Yellow
+Peach
+RO
+SCO
+Rectangle1
+Lines
+Face

@@ -1,0 +1,22 @@
+slide whistle
+arrow
+baseball hit
+bicycle bell
+blip
+blurp
+boing
+buzzer 1
+buzzer 2
+car chirp
+cash register
+chime down
+chime up
+disconnect
+dorbell 1
+dorbell 2
+fanfare 1
+fanfare 2
+laser
+phaser 1
+phaser 2
+radio tuner
